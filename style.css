@@ -65,12 +65,12 @@ body {
     background: #1877f2;
 }
 
-.instagram:hover {
-    background: #ff3c78;
+.tiktok:hover {
+    background: #474545;
 }
 
-.twitter:hover {
-    background: #000;
+.youtube:hover {
+    background: #ff0000;
 }
 
 .btn-donate {
